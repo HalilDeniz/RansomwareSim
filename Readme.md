@@ -41,6 +41,14 @@ RansomwareSim is a simulated ransomware application developed for educational an
    pip install -r requirements.txt
    ```
 
+## 📖 My Book
+- Mastering Scapy: A Comprehensive Guide to [Network Analysis](https://denizhalil.com/2023/11/12/scapy-guide-to-network-analysis-book/)
+- Python Learning Roadmap in 30 Days: [here](https://github.com/HalilDeniz/Python30Days)
+- Beginning Your Journey in Programming and Cybersecurity - [Navigating the Digital Future](https://www.buymeacoffee.com/halildeniz/e/191664)
+
+
+
+
 ### Running the Control Server
 1. Open `controlpanel.py`.
 2. Start the server by running `controlpanel.py`.
