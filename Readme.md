@@ -46,7 +46,8 @@ RansomwareSim is a simulated ransomware application developed for educational an
 - Python Learning Roadmap in 30 Days: [here](https://github.com/HalilDeniz/Python30Days)
 - Beginning Your Journey in Programming and Cybersecurity - [Navigating the Digital Future](https://www.buymeacoffee.com/halildeniz/e/191664)
 
-
+## **DepNot: BackDoorSim**
+If you are interested in tools like **RansomwareSim**, be sure to check out my recently released **[BackDoorSim](https://github.com/HalilDeniz/BackDoorSim)** tool
 
 
 ### Running the Control Server
