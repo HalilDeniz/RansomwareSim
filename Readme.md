@@ -5,6 +5,11 @@
 ## Overview
 RansomwareSim is a simulated ransomware application developed for educational and training purposes. It is designed to demonstrate how ransomware encrypts files on a system and communicates with a command-and-control server. This tool is strictly for educational use and should not be used for malicious purposes.
 
+<h4 align="center">
+<br>
+   <a href="https://buymeacoffee.com/halildeniz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</h4>
+
 ## Features
 - Encrypts specified file types within a target directory.
 - Changes the desktop wallpaper (Windows only).
